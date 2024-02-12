@@ -21,3 +21,4 @@ playerctl
 swappy
 slurp
 waybar
+fish
