@@ -1,0 +1,11 @@
+[window]
+opacity = 0.8
+padding = { x = 10, y = 10 }
+dynamic_padding = true
+
+[colors]
+  [colors.primary]
+    background = "#282a36"
+
+[font]
+size = 8.0

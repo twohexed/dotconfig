@@ -1,0 +1,5 @@
+gtk-theme-name=adw-gtk3
+gtk-enable-animations=1
+gtk-cursor-theme-name=Future-dark-cursors
+gtk-icon-theme-name=Papirus
+gtk-application-prefer-dark-theme=true
