@@ -22,3 +22,11 @@ swappy
 slurp
 waybar
 fish
+python-pywal
+virtualbox
+virtualbox-host-dkms
+noto-fonts
+noto-fonts-emoji
+dunst
+firefox
+deluge-gtk
