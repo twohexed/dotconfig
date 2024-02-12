@@ -10,8 +10,8 @@
     "modules-right": ["idle_inhibitor", "tray", "backlight", "pulseaudio#input", "pulseaudio#output", "battery"],
 
     "hyprland/workspaces": {
-        // "format": "{name} {icon}",
-        "format": "{icon}",
+        "format": "{name} {icon}",
+        // "format": "{icon}",
         "format-icons": {
           "1": "",
           "2": "",
